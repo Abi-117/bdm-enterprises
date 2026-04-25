@@ -1,0 +1,13 @@
+/* normal dots */
+.custom-swiper .swiper-pagination-bullet {
+  background: rgb(255, 255, 255);
+  opacity: 1;
+  transition: all 0.3s ease;
+}
+
+/* active dot */
+.custom-swiper .swiper-pagination-bullet-active {
+  background: #80d7e5; /* change this color */
+  width: 25px;
+  border-radius: 10px;
+}
